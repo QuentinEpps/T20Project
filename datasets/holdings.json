@@ -1,0 +1,4 @@
+[
+    { "ticker_symbol": "BTC", "asset": "Bitcoin (BTC)", "price": 20000, "change": 1.5, "balance": 0.5, "totalValue": 15000 },
+    { "ticker_symbol": "ETH","asset": "Ethereum (ETH)", "price": 1000, "change": -1.2, "balance": 5, "totalValue": 10000 }
+]
